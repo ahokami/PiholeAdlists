@@ -1,0 +1,3 @@
+0.0.0.0 web.whatsapp.com
+0.0.0.0 mmx-ds.cdn.whatsapp.net
+0.0.0.0 whatsapp.net
